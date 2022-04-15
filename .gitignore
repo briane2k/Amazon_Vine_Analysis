@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+_amazon_reviews_us_PC_v1_00.tsv
+_amazon_reviews_us_PC_v1_00.tsv.gz
+Amazon_Reviews_ETL_starter_code.ipynb
+challenge_schema.sql
+.vscode/settings.json
